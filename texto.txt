@@ -5,3 +5,4 @@ cambio en rama para conflicto
 cambio en master para conflicto
 cambio para hacer un push
 rama nueva día 2 o segunda semana
+linea nueva
